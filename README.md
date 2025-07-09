@@ -5,7 +5,7 @@
 **step 1: launch EC2 (ubuntu 22.04)**
  - Provision an EC2 instance on AWS with Ubuntu 22.04.
  - on security group  
-    - SMTP → (Used for sending emails between mail servers)
+    - SMTP → (Used for sending emails between mail servers) 
 
     - 3000-10000 → (Used by various applications, such as Node.js (3000), Grafana (3000), Jenkins (8080), and custom web applications.)
 
